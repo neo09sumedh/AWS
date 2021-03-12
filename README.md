@@ -25,7 +25,7 @@ In order to build a VPC from the YAML file, follow the steps:
 6. Select provided YAML file
 7. Next
 8. Fill in Stack name
-9. Name the VPC
+9. Name the VPC 
 10. Update the CIDR blocks
 11. Click Next
 12. Click Next again
